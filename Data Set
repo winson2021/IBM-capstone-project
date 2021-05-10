@@ -1,0 +1,7 @@
+In order to compare New York City and Toronto, data such as geographical data and venue data were collected. Geographical data include boroughs, neighborhoods, latitude and longitude for both cities to draw maps.
+
+To compare different public venues in the neighborhoods of both cities, data were collected from Foursquare api and appended into the geographical data.
+
+A .json file to fetch data of New York city: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/labs/newyork_data.json
+A Wikipedia Page to fetch data of Toronto city: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+Foursquare api to fetch different public venues in the vicinity of the neighborhood.
